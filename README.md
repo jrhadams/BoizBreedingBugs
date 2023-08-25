@@ -1,4 +1,4 @@
-#Boiz Breeding Bugs
+# Boiz Breeding Bugs
 
 This repository is a collection of a **subset** of notes which pertain to breeding insects for human & animal consumption. 
 
